@@ -1,0 +1,27 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769144224.279941,
+    "completed_at": 1769144225.654398,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769145294.955927,
+    "completed_at": 1769145296.150512,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769143837.059316,
+    "completed_at": 1769143838.398926,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  }
+]
